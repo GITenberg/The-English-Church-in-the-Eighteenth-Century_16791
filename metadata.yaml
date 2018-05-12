@@ -1,0 +1,33 @@
+_repo: The-English-Church-in-the-Eighteenth-Century_16791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Overton, John Henry
+    alias: Overton, J. H. (John Henry)
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '6934'
+    url: http://www.gutenberg.org/2009/agents/6934
+  - agent_name: Abbey, Charles J. (Charles John)
+    alias: Abbey, C. J. (Charles John)
+    birthdate: 1833
+    deathdate: 1919
+    gutenberg_agent_id: '6933'
+    url: http://www.gutenberg.org/2009/agents/6933
+description: ''
+gutenberg_issued: '2005-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church of England -- History -- 18th century'
+title: The English Church in the Eighteenth Century
+url: http://www.gutenberg.org/ebooks/16791
